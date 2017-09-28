@@ -1,1 +1,1 @@
-# Swenson-Class
+# Swenson-Class is useful.
